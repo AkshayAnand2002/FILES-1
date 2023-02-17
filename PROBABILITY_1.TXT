@@ -1,0 +1,12 @@
+A Geek is about to get a plane to Hyderabad. Geek wants to know if it’s raining. 
+Geek calls 3 random friends staying at Hyderabad to ask this question. 
+Each friend has a 2/3 chance of telling the truth and 1/3 chance of lying. All the three friends gave the response as “Yes, it is Raining”. 
+Q. What is the probability that it’s actually raining in Hyderabad? 
+Answer: 8/9 
+Explanation: 
+As all three friends said Yes so either all of them are telling truth or all are lying.
+case 1: All telling truth 2/3*2/3*2/3 = 8/27
+case 2: All lying 1/3 * 1/3 * 1/3  = 1/27
+case 1 is favourable to raining and case 2 is against it
+so probability that it is raining in Hyderabad is (8/27)/(8/27 + 1/27) = 8/9
+So, it is approximately 89% chance that it is raining in Hyderabad.
