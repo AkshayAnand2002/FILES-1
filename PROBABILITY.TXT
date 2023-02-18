@@ -32,6 +32,7 @@ If at least one is a boy, there are three possible equally likely gender assigna
  By Bayes Theorem, P(queen|facecard)=(P(facecard|queen)*P(queen))/[P(facecard|queen)*P(queen)+P(facecard|not queen)*P(not queen)]
  =(1*1/13/[1*1/13+1/6*12/13])=1/3
  P(facecard|not queen)=P(facecard and not queen)/P(not queen)=8/52/(1-(4/52))  = 8/48=1/6.
+ P(facecard|queen)=1 AS QUEEN IS A FACE CARD.
  ##FACE CARDS ARE JACK,KING AND QUEEN & THEY ARE 4 EACH SO TOTAL ARE 12.
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
