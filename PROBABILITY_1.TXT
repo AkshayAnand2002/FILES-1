@@ -10,3 +10,13 @@ case 2: All lying 1/3 * 1/3 * 1/3  = 1/27
 case 1 is favourable to raining and case 2 is against it
 so probability that it is raining in Hyderabad is (8/27)/(8/27 + 1/27) = 8/9
 So, it is approximately 89% chance that it is raining in Hyderabad.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Anshul and Deven take turns in rolling a fair six-sided die. Whoever rolls a “6” first wins the game. 
+Deven starts by rolling first. What’s the probability that Anshul wins?
+Probability of a candidate’s win=1/6 ;          
+Probability of candidate losing =1-1/6=5/6;          
+Probability of Anshul winning on his first turn=(5/6)(1/6)
+Probability of Anshul winning on his second turn=(5/6)(5/6)(5/6)(1/6) and so on
+therefore the total probability of Anshul winning would be=5/36 + 125/1296+….
+its a GP with sum=5/11
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
