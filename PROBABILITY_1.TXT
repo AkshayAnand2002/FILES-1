@@ -20,3 +20,10 @@ Probability of Anshul winning on his second turn=(5/6)(5/6)(5/6)(1/6) and so on
 therefore the total probability of Anshul winning would be=5/36 + 125/1296+….
 its a GP with sum=5/11
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Supposedly a friend of yours has 2 children and at least one of them is a boy. What is the probability that the other is also a boy?
+If at least one is a boy, there are three possible equally likely gender assignations of two siblings. boy-boy, boy-girl,
+ or girl-boy. Only 1 in 3 cases or 33 percent are both boys. The lesson here is that when considering equally likely scenarios
+ we must consider birth order. If the birth order of the boy is not specified – i.e. if we don’t know if he is the eldest or 
+ the youngest – the probability of two boys drops to 1 in 3.
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
